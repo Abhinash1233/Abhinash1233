@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhinash1233
+- 👋 Hi, I’m @Abhinash Maurya
 - 👀 I’m interested in Robotics and in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning ,Neural Network and working on drone that use Ai .
 - 📫 You can contact with me with my email address= mauryaabhinash236@gmail.com.
